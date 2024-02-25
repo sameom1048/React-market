@@ -1,10 +1,9 @@
-1.
-### `npm install --force`
+실행 방법
+### 1. `npm install --force`
 로그인 아이디 : hansung
 비번 : 1234
 
-2.
-### `npm start`
+### 2. `npm start`
 
 
 
