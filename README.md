@@ -1,3 +1,5 @@
+# React를 이용한 쇼핑몰 웹사이트
+
 실행 방법
 ### 1. `npm install --force`
 ### 2. `npm start`
